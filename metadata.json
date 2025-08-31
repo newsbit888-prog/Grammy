@@ -1,0 +1,5 @@
+{
+  "name": "Video Storyboard Generator",
+  "description": "An application that transforms a detailed JSON-based video script into a cinematic video using the Gemini API. Users can define scenes, shots, actions, and styles to generate a unique visual narrative.",
+  "requestFramePermissions": []
+}
